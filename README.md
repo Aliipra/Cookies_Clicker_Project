@@ -1,0 +1,1 @@
+# Cookie Clicker AutomationThis project automates the popular **Cookie Clicker** game using **Selenium** and **Python**. It automatically clicks the cookie, purchases upgrades, and maximizes cookie production.## Requirements- Python 3.x- Selenium (`pip install selenium`)- ChromeDriver (automatically installed via `webdriver-manager`)
